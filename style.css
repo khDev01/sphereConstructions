@@ -30,7 +30,7 @@ header {
 }
 
 .sticky + main {
-  padding-top: 1em;
+  padding-top: 500px;
 }
 
 .logo-left {
